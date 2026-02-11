@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 8px;
+    border: none;
+}
